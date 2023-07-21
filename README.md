@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/693763549457285121?idleMessage=Probably%20doutside%20with%20friends...)](https://discord.com/users/693763549457285121)
+<h1 align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/693763549457285121?idleMessage=Probably%20doutside%20with%20friends...)](https://discord.com/users/693763549457285121)</h1>
 <h1 align="center">Hey 👋, I'm mario1667</h1>
 <h3 align="center">A not so passionate skid trying to make Fivem scripts.</h3>
 <p align="center">
