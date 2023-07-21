@@ -9,7 +9,3 @@
 </p>
 <h3 align="center">Click the banner to join my discord!</h3>
 <h3 align="center">A not so passionate skid trying to make Fivem scripts.</h3>
-<p align="center">
-  <img width="300" height="300" src="https://cdn.discordapp.com/attachments/693772528413311026/988187185247305768/BK_8.png">
-</p>
-<h3 align="center">Join my discord below.</h3>
