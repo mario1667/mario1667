@@ -5,4 +5,4 @@
   <img width="300" height="300" src="https://cdn.discordapp.com/attachments/693772528413311026/988187185247305768/BK_8.png">
 </p>
 <h3 align="center">Join my discord below.</h3>
-<img src="https://readme-typing-svg.demolab.com/?font=light+300&duration=4500&pause=800&width=435&lines=discord.gg%2Fbk5m;fivem+semi-pro+dev;bk+leaks+owner;fivem+cheater"><br>
+<a href="https://discord.gg/bk5m"> <img src="https://readme-typing-svg.demolab.com/?font=light+300&duration=4500&pause=800&width=435&lines=discord.gg%2Fbk5m;fivem+semi-pro+dev;bk+leaks+owner;fivem+cheater"><br>
